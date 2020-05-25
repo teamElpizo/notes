@@ -13,7 +13,7 @@ Battery alarm
 
 Battery runs out fast (half hour to 5 hours), sometimes we miss that coz we were out for calls the whole day, so battery dies.
 
-4th solution:
+4th solution: bye
 Rostering stuff
 Currently hard to roster
 
