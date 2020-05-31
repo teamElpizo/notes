@@ -1,7 +1,10 @@
-1st Solution: i hate everything
+1st Solution: 
 Dementia 
 Facial recognition- recognise lost old people- when lost, family can send a notification to people in that area last seen old people- when found, memebers of thhe public can scan old people face to see if is lost old people
 Security features in place
+
+Statistics: (According to ADA)
+Locally, according to the Well-being of the Singapore Elderly (WiSE) study led by the Institute of Mental Health in 2015, one in 10 people aged 60 and above may have dementia. This translates to almost 82,000 people in 2018 and the number is expected to exceed 100,000 in a few years’ time. (https://alz.org.sg/dementia/singapore/)
 
 2nd Solution: 
 SOP Chatbot
