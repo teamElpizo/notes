@@ -5,6 +5,8 @@ Security features in place
 
 Statistics: (According to ADA)
 Locally, according to the Well-being of the Singapore Elderly (WiSE) study led by the Institute of Mental Health in 2015, one in 10 people aged 60 and above may have dementia. This translates to almost 82,000 people in 2018 and the number is expected to exceed 100,000 in a few years’ time. (https://alz.org.sg/dementia/singapore/)
+Six in 10 people with dementia will wander. (https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)
+Family member of lost to give (optional) searching data: description of clothing worn at the time they wandered away, height and weight, all languages spoken—primary and secondary, distinguishing characteristics—physical as well as personality, distinguishing things to help pick them out of a crowd—such as a hat with a Teamsters logo, or a t-shirt with a baseball logo, recent photo—more than one photo is even better, all names ever used—including nicknames and pet names (https://www.brightfocus.org/alzheimers/article/missing-and-cant-be-found)
 
 2nd Solution: 
 SOP Chatbot
